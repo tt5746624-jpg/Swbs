@@ -1,4 +1,30 @@
 {
-  "projects": [],
+  "projects": [
+    {
+      "id": "p_mr4dckv5",
+      "downloads": 0,
+      "createdAt": "2026-07-03T03:23:39.809Z",
+      "title": "Drone View 1x to 10x",
+      "category": "",
+      "version": "1.0",
+      "description": "Unlock wide view",
+      "tags": [
+        "Drone View only"
+      ],
+      "author": "Xoni",
+      "rating": 5,
+      "thumbnailURL": "https://github.com/tt5746624-jpg/Swbs/releases/download/store-assets/1783049019811_1x.jpg",
+      "thumbnailAssetId": 464984658,
+      "screenshots": [
+        "https://github.com/tt5746624-jpg/Swbs/releases/download/store-assets/1783049023040_New_Project__2181E66_.png"
+      ],
+      "screenshotAssetIds": [
+        464984676
+      ],
+      "downloadURL": "https://github.com/tt5746624-jpg/Swbs/releases/download/store-assets/1783049023980_code_drone.zip",
+      "swbAssetId": 464984681,
+      "sizeMB": "0.00"
+    }
+  ],
   "categories": []
 }
