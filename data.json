@@ -1,19 +1,4 @@
 {
-  "projects": [
-    {
-      "id": "p_mr4d2io8",
-      "downloads": 0,
-      "createdAt": "2026-07-03T03:15:50.409Z",
-      "title": "Test",
-      "category": "",
-      "version": "v1.0",
-      "description": "Test",
-      "tags": [
-        "Test"
-      ],
-      "author": "Xoni",
-      "rating": 0
-    }
-  ],
+  "projects": [],
   "categories": []
 }
