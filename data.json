@@ -1,17 +1,4 @@
 {
-  "projects": [
-    {
-      "id": "p_mr4dymnp",
-      "downloads": 0,
-      "createdAt": "2026-07-03T03:40:48.565Z",
-      "title": "Test File",
-      "category": "",
-      "version": "v1.0",
-      "description": "Test",
-      "tags": [],
-      "author": "Xoni",
-      "rating": 0
-    }
-  ],
+  "projects": [],
   "categories": []
 }
